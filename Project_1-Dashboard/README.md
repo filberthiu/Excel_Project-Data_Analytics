@@ -9,7 +9,7 @@ This data jobs salary dashboard was created to help job seekers investigate sala
 This sample data contains detailed information on job titles, salaries, locations, and essential programming skills that are presented here.
 
 ### Dashboard File
-My final dashboard is in [Project - Salary Dashboard.xlsx](Project - Salary Dashboard.xlsx).
+My final dashboard is in [Project - Salary Dashboard.xlsx](Project%20-%20Salary%20Dashboard.xlsx).
 
 ### Excel Skills Used
 

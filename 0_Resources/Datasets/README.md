@@ -1,6 +1,6 @@
 # 💿 Datasets
 
-This folder is a consolidated list of datasets used throughout the course.
+This folder is a consolidated list of datasets used for the project.
 
 ## Datasets
 

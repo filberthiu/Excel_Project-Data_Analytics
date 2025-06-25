@@ -6,10 +6,10 @@
 
 This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated. 
 
-This sample data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
+This sample data contains detailed information on job titles, salaries, locations, and essential programming skills that are presented here.
 
 ### Dashboard File
-My final dashboard is in [1_Salary_Dashboard.xlsx](1_Salary_Dashboard.xlsx).
+My final dashboard is in [Project - Salary Dashboard.xlsx](Project - Salary Dashboard.xlsx).
 
 ### Excel Skills Used
 
@@ -110,4 +110,4 @@ IF(
 
 ## Conclusion
 
-I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from my Excel course, this dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries. 
+I created this dashboard to showcase insights into salary trends across various data-related job titles. This dashboard allows users to make informed decisions about their career paths, exploring the functionalities to understand how location and job type influence salaries. 
